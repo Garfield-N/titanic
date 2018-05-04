@@ -1,1 +1,2 @@
-# titanic
+# Titanic dataset
+Classification problem
